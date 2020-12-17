@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f9bae8a-5d3d-478d-b44e-ae67b39dd520" name="Default Changelist" comment="Added Files" />
+    <list default="true" id="8f9bae8a-5d3d-478d-b44e-ae67b39dd520" name="Default Changelist" comment="Added Files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../UNI_GIT/P2_IA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -95,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606344739996</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added Files">
+      <created>1606345818163</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606345818163</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,10 +150,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605557262456" />
-    <state x="-973" y="629" key="Vcs.Push.Dialog.v2" timestamp="1606344745766">
+    <state x="-973" y="629" key="Vcs.Push.Dialog.v2" timestamp="1606345839956">
       <screen x="-1366" y="452" width="1366" height="728" />
     </state>
-    <state x="-973" y="629" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1366.452.1366.728@-1366.452.1366.728" timestamp="1606344745766" />
+    <state x="-973" y="629" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1366.452.1366.728@-1366.452.1366.728" timestamp="1606345839956" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1366.452.1366.728@0.0.1920.1040" timestamp="1606343861967" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606343881240">
       <screen x="0" y="0" width="1920" height="1040" />
